@@ -1,4 +1,4 @@
-# Tarea1_Sesion1_App-Purr
+# Applicación Password Purr
 **Nombre:** Mariana Jiménez Martínez
 
 *Curso TecnoChicas Pro*
